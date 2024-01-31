@@ -25,5 +25,5 @@ PS C:\Users\kamil> echo "USE LaPlateforme; SELECT * FROM etudiant WHERE nom = 'S
 PS C:\Users\kamil> cat job17.sql
 USE LaPlateforme; UPDATE etudiant SET age = 20 WHERE nom = 'Spaghetti' AND prenom = 'Betty';
 USE LaPlateforme; SELECT * FROM etudiant WHERE nom = 'Spaghetti' AND prenom = 'Betty';
-PS C:\Users\kamil>
+
 
